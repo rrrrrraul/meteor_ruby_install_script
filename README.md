@@ -8,6 +8,7 @@ The MeteorJS webapp is based on an older version of MeteorJS (version 1.0) and a
 on a newly spun up droplet, run 
 
 `apt-get update`
+
 `apt-get install git`
 
 Now clone this repo , navigate to .sh file and run 
