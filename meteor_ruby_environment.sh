@@ -11,3 +11,6 @@ apt-get install nodejs=0.10.37-1chl1~trusty1 -y
 
 #install MeteorJS vesion 1.0
 curl "https://install.meteor.com/?release=1.0" | sh
+
+#install NGINX
+apt-get install nginx
